@@ -1,0 +1,30 @@
+[2025-07-16 21:17:55.654][verbose] Chromium sandbox is enabled
+[2025-07-16 21:17:55.656][info] Running version 2025.6
+[2025-07-16 21:17:55.837][info] Detected locale: en-US
+[2025-07-16 21:17:55.934][info] Connected to the daemon
+[2025-07-16 21:17:56.049][info] Skip autoconnect because GUI setting is disabled
+[2025-07-16 21:17:56.346][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/dizzy/.config/autostart/mullvad-vpn.desktop'
+[2025-07-16 21:18:02.060][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-16 21:18:02.061][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-16 21:18:02.062][warning] Failed to update device info: 2 UNKNOWN: REST error: Legacy hyper error
+[2025-07-16 21:18:15.079][warning] Failed to fetch account data. Retrying in 16000 ms
+[2025-07-16 22:17:55.939][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-16 23:17:55.940][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-16 23:32:29.140][info] Suspend event received, disconnecting from daemon
+[2025-07-16 23:32:29.142][verbose] GRPC Channel connectivity state changed to 4
+[2025-07-16 23:32:29.145][info] Disconnected from the daemon
+[2025-07-16 23:32:29.147][info] Suspend event received, disconnecting from daemon
+[2025-07-16 23:32:29.148][info] Disconnected from the daemon
+[2025-07-17 15:56:13.488][info] Resume event received, connecting to daemon
+[2025-07-17 15:56:13.497][info] Resume event received, connecting to daemon
+[2025-07-17 15:56:13.497][info] Connected to the daemon
+[2025-07-17 15:56:13.499][info] Connected to the daemon
+[2025-07-17 15:56:13.516][warning] Failed to update device info: 2 UNKNOWN: REST error: Legacy hyper error
+[2025-07-17 15:56:13.519][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-17 15:56:13.624][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-17 15:56:13.624][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-17 15:56:18.151][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-17 15:56:31.170][warning] Failed to fetch account data. Retrying in 16000 ms
+[2025-07-17 15:56:36.835][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-17 15:56:57.191][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-17 15:57:10.204][warning] Failed to fetch account data. Retrying in 16000 ms

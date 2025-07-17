@@ -1,0 +1,6 @@
+2025-06-15 19:45:22.240 [info] Started local extension host with pid 4238.
+2025-06-15 19:45:22.321 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dizzy/.vscode-oss/extensions
+2025-06-15 19:45:22.624 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 19:45:22.732 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dizzy/.vscode-oss/extensions
+2025-06-15 19:45:23.013 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-15 19:45:25.668 [info] [perf] Render performance baseline is 39ms

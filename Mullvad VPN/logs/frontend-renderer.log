@@ -1,0 +1,44 @@
+[2025-07-16 21:17:56.388][verbose] Tunnel state: disconnected
+[2025-07-16 21:17:56.396][verbose] Resize: Wrong content height: 597, expected 568
+[2025-07-16 21:17:56.480][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-16 21:18:01.347][verbose] Tunnel state: connecting
+[2025-07-16 21:18:01.389][verbose] Tunnel state: connecting
+[2025-07-16 21:18:09.548][verbose] Tunnel state: connecting
+[2025-07-16 21:18:09.571][verbose] Tunnel state: connecting
+[2025-07-16 21:18:20.443][verbose] Tunnel state: connecting
+[2025-07-16 21:18:20.535][verbose] Tunnel state: connecting
+[2025-07-16 21:18:23.132][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-16 21:18:27.948][verbose] Tunnel state: connected
+[2025-07-16 21:18:29.450][verbose] Tunnel state: connected
+[2025-07-16 21:18:31.027][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-16 21:18:31.102][verbose] Tunnel state: connecting
+[2025-07-16 21:18:31.108][verbose] Tunnel state: connecting
+[2025-07-16 21:18:31.569][verbose] Tunnel state: connected
+[2025-07-16 21:18:32.098][verbose] Tunnel state: connected
+[2025-07-17 15:56:13.506][verbose] Tunnel state: error
+[2025-07-17 15:56:13.510][verbose] Tunnel state: error
+[2025-07-17 15:56:18.649][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-17 15:56:20.110][verbose] Tunnel state: connecting
+[2025-07-17 15:56:20.136][verbose] Tunnel state: connecting
+[2025-07-17 15:56:28.242][verbose] Tunnel state: connecting
+[2025-07-17 15:56:28.263][verbose] Tunnel state: connecting
+[2025-07-17 15:56:28.272][verbose] Tunnel state: connecting
+[2025-07-17 15:56:44.385][verbose] Tunnel state: connecting
+[2025-07-17 15:56:44.403][verbose] Tunnel state: connecting
+[2025-07-17 15:56:44.407][verbose] Tunnel state: connecting
+[2025-07-17 15:56:52.539][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-17 15:57:16.540][verbose] Tunnel state: connecting
+[2025-07-17 15:57:16.551][verbose] Tunnel state: connecting
+[2025-07-17 15:57:16.559][verbose] Tunnel state: connecting
+[2025-07-17 15:57:20.489][verbose] Tunnel state: disconnecting
+[2025-07-17 15:57:20.513][verbose] Tunnel state: disconnecting
+[2025-07-17 15:57:20.518][verbose] Tunnel state: disconnecting
+[2025-07-17 15:57:20.582][verbose] Tunnel state: disconnected
+[2025-07-17 15:57:20.585][verbose] Tunnel state: disconnected
+[2025-07-17 15:57:23.824][verbose] Tunnel state: connecting
+[2025-07-17 15:57:23.852][verbose] Tunnel state: connecting
+[2025-07-17 15:57:23.857][verbose] Tunnel state: connecting
+[2025-07-17 15:57:24.367][verbose] Tunnel state: connected
+[2025-07-17 15:57:24.371][verbose] Tunnel state: connected
+[2025-07-17 15:57:24.873][verbose] Tunnel state: connected
+[2025-07-17 15:57:24.877][verbose] Tunnel state: connected

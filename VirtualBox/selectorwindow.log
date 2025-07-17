@@ -1,0 +1,23 @@
+00:00:00.188015 VirtualBox GUI VM Selector Window 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.188017 Log opened 2025-06-27T18:52:25.946539000Z
+00:00:00.188018 Build Type: release
+00:00:00.188020 OS Product: Linux
+00:00:00.188021 OS Release: 6.15.2-arch1-1
+00:00:00.188023 OS Version: #1 SMP PREEMPT_DYNAMIC Tue, 10 Jun 2025 21:32:33 +0000
+00:00:00.188042 DMI Product Name: Latitude 7490
+00:00:00.188050 DMI Product Version: 
+00:00:00.188055 Firmware type: UEFI
+00:00:00.188182 Secure Boot: Disabled
+00:00:00.188215 Host RAM: 15846MB (15.4GB) total, 10310MB (10.0GB) available
+00:00:00.188218 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.188218 Process ID: 3573
+00:00:00.188219 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.188238 Qt version: 6.9.1
+00:00:00.188703 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.198915 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.680747 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.823649 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 966x61 x 464x1005
+00:08:05.133491 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:35.303664 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:09.333909 GUI: UICommon: Handling aboutToQuit request..
+00:09:09.878728 GUI: UICommon: aboutToQuit request handled!
