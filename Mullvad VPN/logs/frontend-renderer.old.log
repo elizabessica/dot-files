@@ -1,0 +1,28 @@
+[2025-07-14 23:41:34.741][verbose] Tunnel state: disconnected
+[2025-07-14 23:41:34.742][verbose] Initial: Wrong content height: 597, expected 568
+[2025-07-14 23:41:34.829][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-14 23:41:36.100][verbose] Tunnel state: connecting
+[2025-07-14 23:41:36.138][verbose] Tunnel state: connecting
+[2025-07-14 23:41:37.525][verbose] Tunnel state: connected
+[2025-07-14 23:41:38.046][verbose] Tunnel state: connected
+[2025-07-15 09:36:03.568][verbose] Tunnel state: error
+[2025-07-15 09:36:03.576][verbose] Tunnel state: error
+[2025-07-15 09:36:03.584][verbose] Tunnel state: error
+[2025-07-15 09:36:03.591][verbose] Tunnel state: error
+[2025-07-15 09:36:03.836][verbose] Map canvas scale factor: 1, using: 1
+[2025-07-15 09:36:12.865][verbose] Tunnel state: connecting
+[2025-07-15 09:36:12.905][verbose] Tunnel state: connecting
+[2025-07-15 09:36:14.786][verbose] Tunnel state: connected
+[2025-07-15 09:36:14.808][verbose] Tunnel state: connected
+[2025-07-15 09:36:15.799][verbose] Tunnel state: connected
+[2025-07-15 09:36:15.819][verbose] Tunnel state: connected
+[2025-07-15 09:37:26.204][verbose] Tunnel state: disconnecting
+[2025-07-15 09:37:26.236][verbose] Tunnel state: disconnecting
+[2025-07-15 09:37:26.310][verbose] Tunnel state: error
+[2025-07-15 09:37:26.340][verbose] Tunnel state: error
+[2025-07-15 09:37:27.021][verbose] Tunnel state: connecting
+[2025-07-15 09:37:27.050][verbose] Tunnel state: connecting
+[2025-07-15 09:37:34.601][verbose] Tunnel state: connected
+[2025-07-15 09:37:34.621][verbose] Tunnel state: connected
+[2025-07-15 09:37:35.515][verbose] Tunnel state: connected
+[2025-07-15 09:37:35.537][verbose] Tunnel state: connected

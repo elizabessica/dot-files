@@ -1,0 +1,108 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1005,
+      "width": 940,
+      "x": 966,
+      "y": 61
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1005,
+      "width": 940,
+      "x": 966,
+      "y": 61
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAPGAAAAPQAAB3EAAAQpAAAAAAAAAAAAAAJ/AAACzwAAAAACAAAAB4AAAAPGAAAAPQAAB3EAAAQp"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAD7fwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAD7QAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAABAAAAA+38AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAAAAAD7QAAANcA////AAADrAAAA+0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 22,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*kitty",
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "purple"
+    },
+    "read_mode": "flow",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Justin Seitz",
+          "Tim Arnold"
+        ],
+        "key": "/home/dizzy/Calibre Library/Justin Seitz/Black Hat Python, 2nd Edition (2)/Black Hat Python, 2nd Edition - Justin Seitz.epub",
+        "pathtoebook": "/home/dizzy/Calibre Library/Justin Seitz/Black Hat Python, 2nd Edition (2)/Black Hat Python, 2nd Edition - Justin Seitz.epub",
+        "timestamp": "2025-06-25T18:33:32.977Z",
+        "title": "Black Hat Python, 2nd Edition"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/dizzy/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/dizzy/Calibre Library/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2025-06-20T15:30:25.270Z",
+        "title": "Quick Start Guide"
+      }
+    ],
+    "user_color_schemes": {
+      "*kitty": {
+        "background": "#0e101a",
+        "foreground": "#ffc573",
+        "margin_bottom": "#0e101a:#ebefc0",
+        "margin_left": "#0e101a:#ebefc0",
+        "margin_right": "#0e101a:#ebefc0",
+        "margin_top": "#0e101a:#ebefc0",
+        "name": "kitty"
+      }
+    }
+  }
+}

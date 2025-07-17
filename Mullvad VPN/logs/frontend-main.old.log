@@ -1,0 +1,32 @@
+[2025-07-14 23:41:34.053][verbose] Chromium sandbox is enabled
+[2025-07-14 23:41:34.055][info] Running version 2025.6
+[2025-07-14 23:41:34.224][info] Detected locale: en-US
+[2025-07-14 23:41:34.327][info] Connected to the daemon
+[2025-07-14 23:41:34.447][info] Skip autoconnect because GUI setting is disabled
+[2025-07-14 23:41:34.606][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-14 23:41:34.700][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/dizzy/.config/autostart/mullvad-vpn.desktop'
+[2025-07-15 00:33:21.151][info] Suspend event received, disconnecting from daemon
+[2025-07-15 00:33:21.152][verbose] GRPC Channel connectivity state changed to 4
+[2025-07-15 00:33:21.155][info] Disconnected from the daemon
+[2025-07-15 00:33:21.157][info] Suspend event received, disconnecting from daemon
+[2025-07-15 00:33:21.157][info] Disconnected from the daemon
+[2025-07-15 09:36:03.543][info] Resume event received, connecting to daemon
+[2025-07-15 09:36:03.547][info] Resume event received, connecting to daemon
+[2025-07-15 09:36:03.549][info] Connected to the daemon
+[2025-07-15 09:36:03.551][info] Connected to the daemon
+[2025-07-15 09:36:03.604][warning] Failed to update device info: 2 UNKNOWN: REST error: Legacy hyper error
+[2025-07-15 09:36:03.605][warning] Failed to update device info: 2 UNKNOWN: REST error: Legacy hyper error
+[2025-07-15 09:36:03.606][warning] Failed to fetch account data. Retrying in 8000 ms
+[2025-07-15 09:36:03.737][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-15 09:36:03.738][error] Failed to request the version info: 2 UNKNOWN: Version cache update was aborted
+[2025-07-15 09:36:11.614][warning] Failed to fetch account data. Retrying in 16000 ms
+[2025-07-15 10:36:04.101][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-15 10:36:04.102][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-15 11:36:04.102][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-15 11:36:04.103][verbose] GRPC Channel connectivity state changed to 2
+[2025-07-15 11:59:38.444][info] before-quit received
+[2025-07-15 11:59:38.445][info] Quit initiated
+[2025-07-15 11:59:38.449][info] Unsubscribed from the daemon events
+[2025-07-15 11:59:38.450][verbose] GRPC Channel connectivity state changed to 1
+[2025-07-15 11:59:38.450][verbose] GRPC Channel connectivity state changed to 4
+[2025-07-15 11:59:38.450][verbose] GRPC Channel connectivity state changed to 1

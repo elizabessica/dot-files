@@ -1,0 +1,21 @@
+image=/home/dizzy/Pictures/wallpapers/greyblueflowerswnl.jpg
+font="Maple Mono Regular 10"
+indicator
+ignore-empty-password
+indicator-thickness=15
+indicator-radius=150
+clock
+effect-blur=7x5
+effect-vignette=0.5:0.5
+ring-color=71A8DB
+key-hl-color=A0D5DA
+line-color=00000000
+inside-color=00000088
+inside-clear-color=00000088
+text-color=DB7800
+ring-clear-color=890051
+separator-color=00000000
+grace=2
+fade-in=0.3
+hide-keyboard-layout
+no-unlock-indicator

@@ -1,0 +1,27 @@
+{
+  "add books dialog dir": "/home/dizzy/Downloads",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "ebook viewer open dialog": "/home/dizzy/Calibre Library/Justin Seitz/Black Hat Python, 2nd Edition (2)",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "8.5"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}
